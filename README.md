@@ -29,3 +29,19 @@ Assignments for AQMSS II, Spring 2026
     3.4. ass2_summary.png
     
     3.5. ass2_plot3.png
+
+4. Assignment 3
+
+    4.1. ps3.R
+
+    4.2. ass3_plot1.png
+
+    4.3. ass3_plot2.png
+
+    4.4. ass3_plot3.png
+
+    4.5. ass3_plot4.png
+
+    4.6. ass3_plot5.png
+
+    4.7. ass3_summary.png
