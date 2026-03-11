@@ -10,6 +10,14 @@ Assignments for AQMSS II, Spring 2026
 
     1.2. QoG Dataset
 
+    1.3. Infant Mortality Dataset
+
+    1.4. Corruption Dataset
+
+    1.5. Presidential Approval Dataset
+
+    1.6. Teaching Evaluations Dataset
+
 2. Assignment 1
 
     2.1. assign1.R
@@ -52,6 +60,16 @@ Assignments for AQMSS II, Spring 2026
 
     5.2. pt1_plots
 
-    5.3. pt2_plots
+    5.3. pt1_tables
 
-    5.4. pt2_tables
+    5.4. pt2_plots
+
+    5.5. pt2_tables
+
+6. Assignment 5
+
+    6.1. ps5.R
+
+    6.2. pt1 (Plots and Tables)
+
+    6.3. pt2 (Plots and Tables)
