@@ -18,6 +18,8 @@ Assignments for AQMSS II, Spring 2026
 
     1.6. Teaching Evaluations Dataset
 
+    1.7. Minimum Wage Dataset
+
 2. Assignment 1
 
     2.1. assign1.R
@@ -73,3 +75,11 @@ Assignments for AQMSS II, Spring 2026
     6.2. pt1 (Plots and Tables)
 
     6.3. pt2 (Plots and Tables)
+
+7. Assignment 6
+
+    7.1. ps6.R
+
+    7.2. pt1 (Tables)
+
+    7.3. pt2 (Plots)
