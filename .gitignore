@@ -1,9 +1,9 @@
 .DS_Store
-.aux
-.fdb_latexmk
-.fff
-.fls
-.log
-.out
-.synctex.gz
-.ttt
+*.aux
+*.fdb_latexmk
+*.fff
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.ttt
