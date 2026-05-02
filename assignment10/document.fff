@@ -1,7 +1,0 @@
-\begin{figure*}[hbt]
-\ifnextchar[{\eatarg}{}
-[H]
-    \centering
-    \caption{Scatter Plot}
-    \includegraphics{corruption_log.pdf}
-\end{figure*}
